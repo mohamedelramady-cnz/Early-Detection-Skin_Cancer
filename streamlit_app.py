@@ -83,7 +83,7 @@ CLASS_REPORTS = {
 }
 
 st.set_page_config(
-    page_title="AI Skin Cancer Detiction", 
+    page_title="AI Skin Cancer Detection", 
     page_icon="🔬",
     layout="wide"
 )
